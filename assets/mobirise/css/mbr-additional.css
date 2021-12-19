@@ -1507,6 +1507,35 @@ a {
     padding: 3rem 1rem;
   }
 }
+.cid-sS0E5bWBgj {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #111111;
+}
+.cid-sS0E5bWBgj .line {
+  width: 55px;
+  margin-bottom: 0.5rem;
+  height: 5px;
+  display: inline-block;
+  background: linear-gradient(to left, #fc5130, #e2090d);
+}
+.cid-sS0E5bWBgj .btn-col {
+  align-items: flex-end;
+  justify-content: flex-end;
+  display: flex;
+}
+@media (max-width: 767px) {
+  .cid-sS0E5bWBgj .btn-col {
+    justify-content: center;
+  }
+}
+.cid-sS0E5bWBgj .mbr-text,
+.cid-sS0E5bWBgj .mbr-section-btn {
+  color: #999999;
+}
+.cid-sS0E5bWBgj p {
+  margin: 0;
+}
 .cid-sKpWyIF6GZ {
   padding-top: 135px;
   padding-bottom: 135px;
@@ -2330,7 +2359,7 @@ a {
   color: #999999;
 }
 .cid-sKwOrFiIEA {
-  background-image: url("../../../assets/images/background2.jpg");
+  background-image: url("../../../assets/images/baltimore-brass-720x533.png");
 }
 .cid-sKwOrFiIEA H1 {
   color: #e2090d;
@@ -2368,8 +2397,53 @@ a {
     width: 96%;
   }
 }
+.cid-sKwOtWXEqj .mbr-section-title,
+.cid-sKwOtWXEqj .title-wrapper {
+  color: #e2090d;
+}
+.cid-sS03ChOV15 {
+  background-color: #040402;
+}
+.cid-sS03ChOV15 H1 {
+  color: #e2090d;
+}
+.cid-sS03ChOV15 h1 {
+  background: linear-gradient(to left, #fc5130, currentColor);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.cid-sS03ChOV15 img {
+  width: 100%;
+}
+.cid-sS03ChOV15 .mbr-text,
+.cid-sS03ChOV15 .mbr-section-btn {
+  color: #999999;
+}
+.cid-sS04aDFRrF {
+  padding-top: 645px;
+  background-image: url("../../../assets/images/227084841-1010370509717817-4113858050683342204-n-768x577.jpg");
+}
+.cid-sS04aDFRrF H2 {
+  color: #e2090d;
+}
+.cid-sS04aDFRrF h1 {
+  background: linear-gradient(to left, #fc5130, currentColor);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.cid-sS04aDFRrF section {
+  align-items: flex-end !important;
+}
+.cid-sS04aDFRrF .mbr-text,
+.cid-sS04aDFRrF .mbr-section-btn {
+  color: #999999;
+}
+.cid-sS04aDFRrF .mbr-overlay {
+  background-color: transparent !important;
+  background: linear-gradient(to top, #000000, transparent);
+}
 .cid-sKwOyXiRjY {
-  background-image: url("../../../assets/images/background1.jpg");
+  background-image: url("../../../assets/images/bbqdncparty-2000x1500.jpg");
 }
 .cid-sKwOyXiRjY .link-align {
   width: 100%;
